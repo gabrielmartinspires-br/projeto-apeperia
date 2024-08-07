@@ -34,3 +34,7 @@
   --planos-cartao-ultra: #b04cd9;
   --planos-cartao-mega: #e33b3b;
 }
+
+body {
+    font-family: var(--fonte-principal);
+}
