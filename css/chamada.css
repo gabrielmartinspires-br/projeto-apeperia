@@ -31,3 +31,9 @@
 .chamada__botao {
     width: 100%;
 }
+
+@media (width: 610px) {
+    .chamada {
+        background-color: var(--rosa);
+    }
+}
