@@ -1,8 +1,9 @@
-@import url(./css/reset.css);
+@import url(./css/base.css);
 @import url(./css/cabecalho.css);
 @import url(./css/chamada.css);
+@import url(./css/destaques.css);
 @import url(./css/planos.css);
-@import url(./css/base.css);
+@import url(./css/reset.css);
 
 @font-face {
   font-family: "Open Sans", sans-serif;
