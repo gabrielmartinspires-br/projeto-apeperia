@@ -1,5 +1,5 @@
 body {
-    font-family: var(--fonte-principal);
+  font-family: var(--fonte-principal);
 }
 
 .container {
@@ -8,9 +8,9 @@ body {
 }
 
 .botão {
-  text-align: center;
-  display: block;
-  width: 100%;
-  max-width: 350px;
   box-sizing: border-box;
+  display: block;
+  max-width: 350px;
+  text-align: center;
+  width: 100%;
 }
