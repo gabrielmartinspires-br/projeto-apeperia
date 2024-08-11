@@ -19,14 +19,17 @@
 
 .diferenciais__item--tempo {
     background-image: url(../img/icone-relogio.png);
+    background-repeat: no-repeat;
 }
 
 .diferenciais__item--foco {
     background-image: url(../img/icone-dinheiro.png);
+    background-repeat: no-repeat;
 }
 
 .diferenciais__item--especialistas {
     background-image: url(../img/icone-quimica.png);
+    background-repeat: no-repeat;
 }
 
 .item__titulo {
