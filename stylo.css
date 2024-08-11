@@ -2,6 +2,7 @@
 @import url(./css/cabecalho.css);
 @import url(./css/chamada.css);
 @import url(./css/planos.css);
+@import url(./css/base.css);
 
 @font-face {
   font-family: "Open Sans", sans-serif;
@@ -33,13 +34,4 @@
   --planos-cartao-start: #56ccf2;
   --planos-cartao-ultra: #b04cd9;
   --planos-cartao-mega: #e33b3b;
-}
-
-body {
-    font-family: var(--fonte-principal);
-}
-
-.container {
-  padding-right: 6%;
-  padding-left: 6%;
 }
