@@ -24,13 +24,14 @@
   --fonte-principal: "Open Sans", sans-serif;
   --fonte-secundaria: "Montserrat", sans-serif;
   
-  --branco: #fff;
-  --preto-transparente: #00000020;
   --azul-claro: #dfe3e5;
-  --vermelho-forte: #b72e2e;
+  --branco: #fff;
   --cinza-escuro: #4f4c4c;
   --cinza-claro: #f7f4f4;
   --cinza-medio: #d9d9d9;
+  --preto-transparente: #00000020;
+  --rosa: #f0f;
+  --vermelho-forte: #b72e2e;
 
   --fonte-link: #0084ff;
   --fonte-cinza: #666;
