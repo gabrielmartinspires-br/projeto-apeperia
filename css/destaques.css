@@ -9,5 +9,5 @@
     font-weight: 700;
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
-    text-transform: uppercase;
+    text-transform: uppercase;text-align: center;
 }
