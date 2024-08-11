@@ -32,8 +32,8 @@
     width: 100%;
 }
 
-@media (min-width: 610px) {
+@media screen and (min-width: 610px) {
     .chamada {
-        background-color: #f0f;
+        background-color: var(--rosa);
     }
 }
