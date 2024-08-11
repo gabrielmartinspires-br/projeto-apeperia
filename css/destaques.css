@@ -22,9 +22,9 @@
 }
 
 .destaques__painel-imagem {
-    width: 100vw;
     box-shadow: 0 2px 10px 5px var(--preto-transparente);
     margin-bottom: .5rem;
+    width: 100vw;
 }
 
 .destaques__painel-texto {
@@ -34,7 +34,7 @@
 }
 
 .destaques__botao {
-    color: var(--vermelho-forte);
     border-color: var(--vermelho-forte);
+    color: var(--vermelho-forte);
     margin: 0 auto;
 }
