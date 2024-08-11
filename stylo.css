@@ -13,3 +13,11 @@
   src: url("https://fonts.googleapis.com/css2?family=Grey+Qo&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Pacifico&family=Vast+Shadow&display=swap");
 }
 
+:root {
+  --fonte-principal: "Open Sans", sans-serif;
+  
+}
+
+body {
+    font-family: var(--fonte-principal);
+}
