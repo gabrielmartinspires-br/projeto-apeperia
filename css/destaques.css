@@ -26,3 +26,7 @@
     box-shadow: 0 2px 10px 5px var(--preto-transparente);
     margin-bottom: .5rem;
 }
+
+.destaques__painel-texto {
+    font-weight: 700;
+}
