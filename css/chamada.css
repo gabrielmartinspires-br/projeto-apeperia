@@ -32,7 +32,7 @@
     width: 100%;
 }
 
-@media (width: 610px) {
+@media (min-width: 610px) {
     .chamada {
         background-color: #f0f;
     }
